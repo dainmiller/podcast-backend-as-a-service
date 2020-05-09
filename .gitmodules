@@ -1,0 +1,3 @@
+[submodule "submodule-api"]
+	path = submodule-api
+	url = https://github.com/podvio/podcast-crawler-api
