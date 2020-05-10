@@ -1,2 +1,2 @@
-# podcastcrawlerasaservice
-Provides an API to `trigger` and `subscribe` to the results of podcast crawling.
+# Podcast Backend as a Service    
+Docs coming soon for full suite of APIs for podcast backend.
